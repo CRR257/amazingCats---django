@@ -26,7 +26,7 @@ SECRET_KEY ='kknhq*3^97+b1k(b0uds^zl9b!5d$1zg$e#(rs4!a1+3p!rsz&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "cats.glitch.me"]
+ALLOWED_HOSTS = ["127.0.0.1", "crr257.pythonanywhere.com", "cats.glitch.me"]
 
 
 # Application definition
